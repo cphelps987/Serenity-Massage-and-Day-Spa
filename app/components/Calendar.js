@@ -1,12 +1,9 @@
-/**
- * Created by courtneyphelps on 7/29/17.
- */
+
 // Include React
 var React = require("react");
 //router
 var Link = require("react-router").Link;
 var Navbar = require('./Navbar');
-
 
 // Create the Main component
 var Calendar = React.createClass({
@@ -31,9 +28,17 @@ var Calendar = React.createClass({
                 <Navbar/>
 
                 <div className="container">
-                    <div className ="col-md-12">
+                    <div className ="col-md-2">
+                        <div className="row">
+                        </div>
+                    </div>
+                    <div className ="col-md-8">
                         <div className="row">
                             <h1>Hello World Calendar.js</h1>
+                        </div>
+                    </div>
+                    <div className ="col-md-2">
+                        <div className="row">
                         </div>
                     </div>
                 </div>
