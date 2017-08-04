@@ -28,7 +28,7 @@ var Main = React.createClass({
                 </div>
                 <div className ="col-md-8">
                     <div className="row">
-                        <h1>Hello World Main.js</h1>
+                        <h1>Serenity Massage & Day Spa Services</h1>
                         <p>Meggings kombucha pok pok heirloom, PBR&B tumeric craft beer offal cold-pressed. Vice kickstarter literally salvia. Heirloom cronut pitchfork thundercats pour-over. +1 vegan cardigan, keffiyeh normcore fam pabst pickled church-key tumblr synth. Tattooed shabby chic vexillologist vinyl. Asymmetrical pug pitchfork, PBR&B cloud bread lo-fi poutine. Shoreditch normcore typewriter, distillery single-origin coffee venmo brunch try-hard. Cred church-key you probably haven't heard of them gochujang. Hammock ramps pour-over tattooed. Listicle shaman ramps street art retro, lumbersexual cred swag roof party chia adaptogen tbh taxidermy lomo raw denim. Tumblr gentrify artisan, blue bottle synth organic jean shorts occupy pug viral brooklyn roof party meh man bun. +1 banjo tilde kitsch mlkshk meh. Activated charcoal food truck thundercats coloring book pour-over, distillery hoodie. Hexagon prism wolf kinfolk 3 wolf moon cold-pressed.
                             <br></br>
                             <br></br>

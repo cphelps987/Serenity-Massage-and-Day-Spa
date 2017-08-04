@@ -53,6 +53,7 @@ var Service = React.createClass({
                                     <td>Unwind with this gentle, relaxing massage that improves circulation and vitality. Pressure can range from very light to medium.</td>
                                     <td>$65</td>
                                 </tr>
+
                                 <tr>
 
                                     <td>Swedish Massage</td>
@@ -106,6 +107,7 @@ var Service = React.createClass({
                             </table>
                         </div>
                     </div>
+
                     <div className="col-lg-12">
                         <div className="row">
                             <table className="table table-hover">

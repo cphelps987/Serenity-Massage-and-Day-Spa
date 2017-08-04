@@ -22,8 +22,8 @@ var Service = require("../components/Service");
 var Reviews = require("../components/Reviews");
 var FAQ = require("../components/FAQ");
 var Contact = require("../components/Contact");
-var Calendar = require("../components/Calendar");
-var Login = require("../components/Login");
+var Book = require("../components/Book");
+
 
 
 // Export the Routes
@@ -35,11 +35,9 @@ module.exports = (
                 <Route path="/" component={Main} />
                 <Route path="/about" component={About} />
                 <Route path="/service" component={Service} />
-                <Route path="/reviews" component={Reviews} />
                 <Route path="/faq" component={FAQ} />
                 <Route path="/contact" component={Contact} />
-                <Route path="/calendar" component={Calendar} />
-                <Route path="/login" component={Login} />
+                <Route path="/book" component={Book} />
 
     </Router>
 );

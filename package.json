@@ -14,9 +14,12 @@
     "body-parser": "^1.17.2",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "jsx-loader": "^0.13.2",
     "logger": "0.0.1",
     "mongoose": "^4.11.5",
     "morgan": "^1.8.2",
+    "q": "^1.5.0",
     "react-bootstrap": "^0.31.2",
     "react-router": "^2.8.1",
     "request": "^2.81.0"

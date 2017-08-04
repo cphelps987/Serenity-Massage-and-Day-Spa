@@ -25,19 +25,12 @@ var Navbar = React.createClass({
                         <ul className="nav navbar-nav">
                             <li><Link className="active" to='/'><a>Home<span className="sr-only">(current)</span></a></Link></li>
                             <li><a><Link to='/about'>About</Link></a></li>
-                            <li><a><Link to='/service'>Service</Link></a></li>
-                            <li><a><Link to='/reviews'>Review</Link></a></li>
                             <li><a><Link to='/faq'>FAQ</Link></a></li>
                             <li><a><Link to='/contact'>Contact</Link></a></li>
-                            <li><a><Link to='/calendar'>Calendar</Link></a></li>
+                            <li><a><Link to='/service'>Service</Link></a></li>
+                            <li><a><Link to='/book'>Book</Link></a></li>
                         </ul>
 
-
-                        <ul className="nav navbar-nav navbar-right">
-                            <form className="navbar-form navbar-left">
-                                <Link to='/login'><button type="button" className="btn btn-default navbar-btn" >Sign In</button></Link>
-                            </form>
-                        </ul>
                     </div>
                 </div>
             </nav>

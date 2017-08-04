@@ -33,7 +33,22 @@ var FAQ = React.createClass({
                 <div className="container">
                     <div className ="col-md-12">
                         <div className="row">
-                            <h1>Hello World FAQ.js</h1>
+                            <h1>FAQ</h1>
+                        </div>
+                    </div>
+                    <div className ="col-md-6">
+                        <div className="row">
+                            <form>
+                                <div className="form-group">
+                                    <label for="formGroupExampleInput">Title</label>
+                                    <input type="text" className="form-control" id="formGroupExampleInput" placeholder="Title"></input>
+                                </div>
+                                <div className="form-group">
+                                    <label for="exampleTextarea">Question</label>
+                                    <textarea className="form-control" id="exampleTextarea" rows="3"></textarea>
+                                </div>
+                                <button type="submit" className="btn btn-primary">Submit</button>
+                            </form>
                         </div>
                     </div>
                 </div>

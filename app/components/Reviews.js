@@ -31,10 +31,17 @@ var Reviews = React.createClass({
                 <Navbar/>
 
                 <div className="container">
-                    <div className ="col-md-12">
+                    <div className="col-md-12">
                         <div className="row">
-                            <h1>Hello World Reviews.js</h1>
+                            <h1>Reviews</h1>
                         </div>
+                    </div>
+                    <div className="col-md-12">
+                        <div className="row lead">
+                            <div id="stars" className="starrr"></div>
+                            You gave a rating of <span id="count">0</span> star(s)
+                        </div>
+
                     </div>
                 </div>
             </div>
