@@ -75,14 +75,15 @@ var Contact = React.createClass({
                                         <td>Closed</td>
                                     </tr>
                                 </table>
+                                <p>
+                                    <h3>Directions</h3>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14007.777711811668!2d-81.362549!3d28.6314276!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xce2161e524fe8373!2sSerenity+Massage+%26+Day+Spa+Services+By+Tracy+Sipe!5e0!3m2!1sen!2sus!4v1512618726955" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div className ="col-md-2">
                         <div className="row">
-                            <p>
-                            <h3>Directions</h3>
-                            </p>
                         </div>
                     </div>
                 </div>
